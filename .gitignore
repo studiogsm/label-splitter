@@ -32,3 +32,8 @@ pip-delete-this-directory.txt
 # Local test files
 *.pdf
 !docs/*.pdf
+
+# Personal / setup-only scripts (not relevant to project users)
+push_to_github.bat
+github_setup.md
+cleanup_repo.bat
